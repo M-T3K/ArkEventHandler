@@ -1,0 +1,35 @@
+{
+    "event": "None",
+    "type": "none",
+    "duration": 24,
+    "GameUserSettings.ini": {
+        "OverrideOfficialDifficulty": 6,
+        "DifficultyOffset": 1.0,
+        "TamingSpeedMultiplier": 4.0,
+        "HarvestAmountMultiplier": 3.0,
+        "DayTimeSpeedScale": 0.919629630,
+        "NightTimeSpeedScale": 1.241111111,
+        "DinoCountMultiplier": 1
+    },
+    "Game.ini": {
+        "SupplyCrateLootQualityMultiplier": 1.5,
+        "PassiveTameIntervalMultiplier": 0.500000,
+        "XPMultiplier": 1.5,
+        "KillXPMultiplier": 3,
+        "CropGrowthSpeedMultiplier": 5.0,
+        "BabyCuddleGracePeriodMultiplier": 1,
+        "BabyCuddleIntervalMultiplier": 0.091597,
+        "BabyCuddleLoseImprintQualitySpeedMultiplier": 1,
+        "BabyFoodConsumptionSpeedMultiplier": 2,
+        "BabyImprintingStatScaleMultiplier": 1,
+        "BabyMatureSpeedMultiplier": 20,
+        "EggHatchSpeedMultiplier": 10,
+        "LayEggIntervalMultiplier": 0.125,
+        "MatingIntervalMultiplier": 0.125,
+        "MatingSpeedMultiplier": 8
+    },
+    "FimperioCI.cfg": {},
+    "motd": [
+        "Welcome! Current event: None"
+    ]
+}

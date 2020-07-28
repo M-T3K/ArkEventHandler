@@ -1,0 +1,20 @@
+{
+    "event": "HarvestDoodlyDoo",
+    "type": "rates",
+    "duration": 24,
+    "GameUserSettings.ini": {
+        "HarvestAmountMultiplier": 5.0,
+        "DinoCountMultiplier": 1
+    },
+    "Game.ini": {
+        "SupplyCrateLootQualityMultiplier": 2.0,
+        "XPMultiplier": 2.0,
+        "KillXPMultiplier": 3
+    },
+    "FimperioCI.cfg": {},
+    "motd": [
+        "Welcome! Current event: ",
+        "Harvest DoodlyDoo: Heigh-Ho!",
+        "We dig, dig, dig, dig, dig, dig, dig in our mine the whole day through!"
+    ]
+}

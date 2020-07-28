@@ -1,0 +1,18 @@
+{
+    "event": "TamingXtra",
+    "type": "rates",
+    "duration": 24,
+    "GameUserSettings.ini": {
+        "OverrideOfficialDifficulty": 7,
+        "TamingSpeedMultiplier": 5.0,
+        "DinoCountMultiplier": 1
+    },
+    "Game.ini": {
+        "PassiveTameIntervalMultiplier": 0.25000
+    },
+    "FimperioCI.cfg": {},
+    "motd": [
+        "Welcome! Current Event: ",
+        "TamingXtra: Stuck @ the Zoo"
+    ]
+}

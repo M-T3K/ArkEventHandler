@@ -1,0 +1,20 @@
+{
+    "event": "DinoAnnihilation",
+    "type": "battle",
+    "duration": 4,
+    "GameUserSettings.ini": {
+        "OverrideOfficialDifficulty": 10,
+        "DinoCountMultiplier": 3
+    },
+    "Game.ini": {
+        "SupplyCrateLootQualityMultiplier": 3.0,
+        "XPMultiplier": 1.5,
+        "KillXPMultiplier": 4,
+        "bDisableDinoTaming": "true"
+    },
+    "FimperioCI.cfg": {},
+    "motd": [
+        "Welcome! Current event:  ",
+        "Total Annihilation I: Dinosaur War"
+    ]
+}

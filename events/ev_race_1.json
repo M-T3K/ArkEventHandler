@@ -1,0 +1,63 @@
+{
+    "event": "GreenObeliskRace",
+    "type": "race",
+    "duration": 24,
+    "GameUserSettings.ini": {},
+    "Game.ini": {},
+    "FimperioCI.cfg": {},
+    "motd": [
+        "Welcome! Current Event: ",
+        "Run Forrest Run!"
+    ],
+    "params": {
+        "data": {
+            "dino": "land",
+            "location": "Green Obelisk",
+            "destination": "Blue Obelisk",
+            "time": "16:45"
+        },
+        "prizes": {
+            "1": {
+                "dino": [
+                    "Kangaroo Lvl. 270"
+                ],
+                "items": [
+                    "Assault Rifle",
+                    "Compound Bow",
+                    "Fabricated pistol",
+                    "Fabricated Sniper Rifle",
+                    "Flamethrower",
+                    "Longneck Rifle",
+                    "Pike",
+                    "Sword",
+                    "Pump Action Shotgun"
+                ],
+                "skins": [
+                    "Chibby Bunny"
+                ]
+            },
+            "2": {
+                "dino": [
+                    "Gallimimus Lvl. 270"
+                ],
+                "items": [
+                    "Gallimimus Saddle"
+                ],
+                "skins": [
+                    "Chibby Bunny"
+                ]
+            },
+            "3": {
+                "dino": [
+                    "Beelzebuffo Lvl. 270"
+                ],
+                "items": [
+                    "Beelzebuffo Saddle"
+                ],
+                "skins": [
+                    "Chibby Bunny"
+                ]
+            }
+        }
+    }
+}
